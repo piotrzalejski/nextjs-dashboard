@@ -1,4 +1,4 @@
-'useclient';
+'use client';
 
 import {
   UserGroupIcon,
